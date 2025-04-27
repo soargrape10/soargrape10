@@ -6,7 +6,7 @@ I'm passionate about building new things and growing as a developer.
 
 ## 🧑‍💻 About Me
 - 🎓 Studying Computer Science
-- 🌱 Currently making **Various of Useful Programs**
+- 🌱 Currently making **Various of Useful Programs for students**
 - 📬 Contact: soargrape@naver.com or instg: @bellluugaa
 
 ---
