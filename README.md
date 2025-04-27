@@ -36,16 +36,3 @@ I'm passionate about building new things and growing as a developer.
 
 ---
 
-## 🐾 Say Hi to My Pets!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="200px"/>
-</div>
-
-- 🐶 Name: Happy
-- 🐱 Name: Coco
-- 🐰 Name: Bibi
-
-They bring joy and energy to my life every day! 🐾
-
----
