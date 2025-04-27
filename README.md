@@ -2,7 +2,7 @@
 
 # soargrape10
 
-I'm a developer who makes very useful programs for students.
+Beginner developer who makes useful programs for students.
 
 ---
 
