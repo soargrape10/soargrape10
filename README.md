@@ -1,5 +1,3 @@
-<div align="center">
-
 # soargrape10
 
 I'm a developer who makes very useful programs for students.
@@ -14,19 +12,15 @@ I'm a developer who makes very useful programs for students.
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soargrape10&show_icons=true&theme=default" width="400px" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=soargrape10&show_icons=true&theme=default" width="400px" />
 
 ---
-
-</div>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soargrape10&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/soargrape10?pet-id=704300590575764705"
     width="600"
     height="120"
-    align="left"
   />
 </a>
