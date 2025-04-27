@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=soargrape10&section=header&textBg=false&fontColor=white" />
-
 Beginner developer who makes useful programs for students.
 
 ---
