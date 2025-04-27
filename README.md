@@ -1,4 +1,4 @@
-# Hi 👋 I'm soargrape10
+# Hi, 👋 I'm soargrape10
 
 I'm passionate about building new things and growing as a developer.
 
