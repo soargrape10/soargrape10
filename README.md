@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, 👋 I'm soargrape10
 
 I'm a developer who makes very useful programs for students.
@@ -25,4 +27,5 @@ I'm a developer who makes very useful programs for students.
     height="120"
   />
 </a>
----
+
+</div>
