@@ -16,10 +16,6 @@ Beginner developer who makes useful programs for students.
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=soargrape10&show_icons=true&theme=default" width="400px" />
-
----
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soargrape10&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/soargrape10"
