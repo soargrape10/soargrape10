@@ -1,3 +1,5 @@
+<div align="center">
+
 # soargrape10
 
 I'm a developer who makes very useful programs for students.
@@ -17,6 +19,7 @@ I'm a developer who makes very useful programs for students.
 
 ---
 
+</div>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soargrape10&utm_content=line">
   <img
@@ -25,4 +28,3 @@ I'm a developer who makes very useful programs for students.
     height="120"
   />
 </a>
-  
