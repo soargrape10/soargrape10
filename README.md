@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=soargrape10&section=header&textBg=false&fontColor=white" />
+
 <div align="center">
 
 # soargrape10
