@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, 👋 I'm soargrape10
+# soargrape10
 
 I'm a developer who makes very useful programs for students.
 
@@ -27,5 +27,6 @@ I'm a developer who makes very useful programs for students.
     src="https://render.gitanimals.org/lines/soargrape10?pet-id=704300590575764705"
     width="600"
     height="120"
+    align="left"
   />
 </a>
