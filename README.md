@@ -19,8 +19,6 @@ I'm a developer who makes very useful programs for students.
 
 ---
 
-</div>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soargrape10&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/soargrape10"
@@ -28,3 +26,5 @@ I'm a developer who makes very useful programs for students.
   height="300"
 />
 </a>
+
+</div>
